@@ -1,6 +1,6 @@
 # DateDelta Precision
 
-## description
+## Description
 DateDelta Precision JS is a JavaScript-based application designed to calculate the precise number of days between two given dates. This project offers an accurate and efficient solution for determining the time span between different dates.
 
 ## Features
